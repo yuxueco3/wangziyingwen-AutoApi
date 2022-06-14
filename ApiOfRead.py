@@ -15,7 +15,7 @@ access_token_list=['wangziyingwen']*int(app_num)
 # rounds_delay: 是否开启每轮之间的随机延时，后面两参数代表延时的区间。默认0关闭
 # api_delay: 是否开启api之间的延时，默认0关闭
 # app_delay: 是否开启账号之间的延时，默认0关闭
-########################################
+#########################################
 config = {
          'api_rand': 1,
          'rounds': 3,
