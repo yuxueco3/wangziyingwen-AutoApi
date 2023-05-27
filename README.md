@@ -17,7 +17,7 @@ AutoApi系列：~~AutoApi(v1.0)~~、~~AutoApiSecret(v2.0)~~、~~AutoApiSR(v3.0)~
 
 ## 步骤 ##
 * 准备工具：
-   * E5开发者账号（**非个人/私人账号**）
+   * E5开发者账号（**非个人/私人账号**） 
        * 管理员号 ———— 必选 
        * 子号 ———— 可选 （不清楚微软是否会统计子号的活跃度，想弄可选择性补充运行）    
    * rclone软件，[下载地址 rclone.org ](https://downloads.rclone.org/v1.53.3/rclone-v1.53.3-windows-amd64.zip)，(windows 64）
